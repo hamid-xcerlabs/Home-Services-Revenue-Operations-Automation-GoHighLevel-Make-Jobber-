@@ -1,7 +1,7 @@
 # Home Services Revenue Operations Automation
 
 ### GoHighLevel + Make.com + Jobber
-
+![System Architecture](architecture/system-architecture.png)
 ## Overview
 
 A home services company was managing leads, appointments, quotes, customer communication, and operational workflows across multiple disconnected systems.
