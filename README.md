@@ -1,6 +1,4 @@
 # Home Services Revenue Operations Automation
-
-### GoHighLevel + Make.com + Jobber
 ![System Architecture](architecture/system-architecture.png)
 ## Overview
 
