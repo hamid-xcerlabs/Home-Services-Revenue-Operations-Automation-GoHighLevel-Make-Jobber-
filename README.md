@@ -256,7 +256,6 @@ This repository contains:
 ---
 
 ## Disclaimer
-
+Detailed implementation documentation and workflow architecture are available upon request.
 Client-identifying information, credentials, API keys, webhook endpoints, and proprietary business data have been removed, anonymized, or redacted before publication.
-
 This repository is intended to demonstrate the system architecture, automation logic, workflow design, and implementation approach used throughout the project.
